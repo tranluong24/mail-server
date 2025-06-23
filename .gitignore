@@ -1,5 +1,5 @@
 .env
 node_modules/
-kafka/
+kafka/kafka-broker/
 system/
 auto/
